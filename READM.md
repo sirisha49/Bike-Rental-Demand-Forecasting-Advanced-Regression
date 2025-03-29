@@ -4,7 +4,7 @@ This project presents a comprehensive machine learning pipeline to predict **dai
 
 ---
 
-## 📁 Dataset Description
+## Dataset Description
 
 The dataset includes **daily aggregated bike rental data** from a bike-sharing system, structured with the following attributes:
 
@@ -24,7 +24,7 @@ This diverse feature set allows us to analyze time-driven patterns, weather sens
 
 ---
 
-## 🎯 Project Goals
+## Project Goals
 
 1. **Understand patterns in bike rental behavior** through visualizations and summary statistics
 2. **Test classical regression assumptions** to ensure appropriate model choice
@@ -34,7 +34,7 @@ This diverse feature set allows us to analyze time-driven patterns, weather sens
 
 ---
 
-## 📊 Exploratory Data Analysis
+## Exploratory Data Analysis
 
 Initial analysis included:
 
@@ -51,7 +51,7 @@ Findings:
 
 ---
 
-## 🧪 Assumption Diagnostics
+## Assumption Diagnostics
 
 All models were subjected to rigorous statistical checks:
 
@@ -63,7 +63,7 @@ All models were subjected to rigorous statistical checks:
 
 ---
 
-## 🧠 Models Implemented
+## Models Implemented
 
 A total of **eight models** were trained, tuned, and compared:
 
@@ -78,7 +78,7 @@ A total of **eight models** were trained, tuned, and compared:
 
 ---
 
-## 📈 Model Comparison
+## Model Comparison
 
 Each model was evaluated using:
 
@@ -98,18 +98,18 @@ Each model was evaluated using:
 
 ---
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 
-- ✅ How to validate and interpret statistical assumptions before modeling
-- ✅ Selection of appropriate models based on **data type and distribution**
-- ✅ Application of **regularization** for improved generalization
-- ✅ Diagnostic techniques for identifying violations and improving models
-- ✅ Communication of insights through visual and statistical summaries
-- ✅ Balancing **prediction performance** with **model interpretability**
+- How to validate and interpret statistical assumptions before modeling
+- Selection of appropriate models based on **data type and distribution**
+- Application of **regularization** for improved generalization
+- Diagnostic techniques for identifying violations and improving models
+- Communication of insights through visual and statistical summaries
+- Balancing **prediction performance** with **model interpretability**
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python 3.x  
 - Jupyter Notebook  
@@ -120,7 +120,7 @@ Each model was evaluated using:
 
 ---
 
-## 📄 Final Report Summary
+## Final Report Summary
 
 The accompanying PDF report includes:
 
